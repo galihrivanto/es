@@ -9,9 +9,7 @@ import (
 	"log"
 	"os"
 
-	"test/es/event"
-
-	ags "github.com/gophercode/exp-tems/server/lib/ags/v3"
+	ags "github.com/galihrivanto/ags/v3"
 	event "github.com/galihrivanto/es"
 )
 

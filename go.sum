@@ -1,3 +1,5 @@
+github.com/galihrivanto/ags v0.0.0-20200214081820-c6c005620430 h1:Ff1u7GvAYk8TYZBaCR6g4z3MZyfJvILFpLBxZcVHly8=
+github.com/galihrivanto/ags v0.0.0-20200214081820-c6c005620430/go.mod h1:PvepaLn1atexnIHGLFdKVc8QhaqcHSrd9G5l0SJ53hE=
 github.com/galihrivanto/runner v0.0.0-20190906162335-2b10a583c59e h1:fs9n4f2g6wte/QM2FxmN1ucLx+8jIOZslMOMUA+U/yk=
 github.com/galihrivanto/runner v0.0.0-20190906162335-2b10a583c59e/go.mod h1:w4LT8uzPbepnSAuwVq6/7dVMz1hcW40FNWIgg8IHBaI=
 github.com/gogo/protobuf v1.2.1 h1:/s5zKNz0uPFCZ5hddgPdo2TK2TVrUNMn0OOX8/aZMTE=
